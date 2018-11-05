@@ -1,4 +1,4 @@
-FROM tedder42/ubuntu-python3-scipy
+FROM qa_base
 
 ADD . /root/DrQA
 
